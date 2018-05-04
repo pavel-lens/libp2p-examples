@@ -1,0 +1,19 @@
+{
+  "name": "transports",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01-tcp.js",
+  "dependencies": {
+    "async": "^2.6.0",
+    "libp2p": "^0.20.4",
+    "libp2p-spdy": "^0.12.1",
+    "libp2p-tcp": "^0.12.0",
+    "peer-info": "^0.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pavel Svitek (http://pavelsvitek.com/)",
+  "license": "ISC"
+}
